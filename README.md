@@ -1,2 +1,3 @@
-# for ... in [![Build status](https://ci.appveyor.com/api/projects/status/k14919hrx3sry7rf?svg=true)](https://ci.appveyor.com/project/kos4/ajs-homeworks-advanced-for-in)
+# Destructuring [![Build status](https://ci.appveyor.com/api/projects/status/3x997cty9k4ob3ml?svg=true)](https://ci.appveyor.com/project/kos4/ajs-homeworks-advanced-destructuring)
+
 
